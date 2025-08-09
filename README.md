@@ -3,7 +3,7 @@
 ---
 
 # 👨‍💻 Estudiante de Ingeniería de Sistemas
-z
+
 Apasionado por la programación, la ciberseguridad y el análisis de datos.  
 Me encanta aprender nuevas tecnologías y desarrollar proyectos que mezclen software, seguridad y optimización de procesos.
 
